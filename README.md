@@ -1,4 +1,4 @@
-CMake Protobuf Example
+CMake Boost Example
 ======================
 
 Minimal example of a project using boost and CMake.
