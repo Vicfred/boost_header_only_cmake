@@ -1,7 +1,7 @@
 CMake Boost Example
 ======================
 
-Minimal example of a project using boost and CMake.
+Minimal example of a project using boost and CMake using a header only library.
 
 Build
 ======================
